@@ -6,6 +6,11 @@ html{
     background-color: grey;
 }
 
+h1{
+    background-color: pink;
+    color:white
+}
+
 .ar{
     background-color: pink
 }
@@ -23,7 +28,24 @@ html{
 }
 
 .border1{
-    margin
+    background-color: white;
+    border: 5px solid orange;
+    padding: 50px;
+    margin: 20px;
+
+}
+
+#heading-style{
+    color:white
+    background-color:pink
+}
+
+.yellow-text{
+    color:yellow
+}
+
+.footer-style{
+    color:white
 }
 
 
